@@ -44,7 +44,7 @@ lib/
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/CodeAlphaQuotica.git
+   git clone https://github.com/DuaAkbar/CodeAlpha_QuoticaApp
 
 
 2. **Install dependencies**
@@ -61,7 +61,7 @@ lib/
 
 ## 📹 Demo Video
 
-[🔗 Click here to watch the demo on LinkedIn](#)
+[🔗 Click here to watch the demo on LinkedIn](https://www.linkedin.com/posts/dua-akbar-73686636b_flutter-internship-mobiledevelopment-activity-7352816950281957377-bVfg)
 
 ---
 
